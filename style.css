@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(blue 0%, green 50%, red 100%);
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.copy_right_footer {
+    font-size: 25px;
+    color: yellow;
+    font-style: italic;
+    border-style: ridge;
+    border-color: lightskyblue;
+}
+
+.header_div {
+    color: yellow;
+}
+
+#result {
+    color: lime;
+}
